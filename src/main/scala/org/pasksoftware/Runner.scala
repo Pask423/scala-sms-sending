@@ -1,3 +1,5 @@
+package org.pasksoftware
+
 object Runner extends App {
 
   private val sendCorrectly: Boolean =

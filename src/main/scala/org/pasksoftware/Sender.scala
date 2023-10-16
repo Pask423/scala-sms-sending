@@ -1,6 +1,8 @@
+package org.pasksoftware
+
 import com.vonage.client.VonageClient
-import com.vonage.client.sms.messages.TextMessage
 import com.vonage.client.sms.{MessageStatus, SmsClient, SmsSubmissionResponse}
+import com.vonage.client.sms.messages.TextMessage
 
 object Sender {
 

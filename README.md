@@ -1,3 +1,10 @@
+### Info
+Example of sending SMS in Scala.
+
+Full article is available on:
+1. [Dzone](https://dzone.com/articles/sending-text-messages-with-scala)
+2. [Medium](https://medium.com/@PaskSoftware/sms-sending-with-scala-444044df5bca)
+
 ### **Running locally**
 
 Before starting doing any changes I recommend to import project into IDE and then perform any changes form there.
